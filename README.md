@@ -1,2 +1,5 @@
 # HR-Analytics-Dashboard
-An interactive dashboard that tracks Employee Presence Percentage, Work from home Percentage, Sick Leave Patterns and Daily &amp; weekly  breakdown of Employee data for better insights for efficient HR operations
+An interactive dashboard that tracks Employee Presence Percentage, Work from home Percentage, Sick Leave Patterns and Daily & weekly  breakdown of Employee data for better insights and efficient HR operations.
+
+# Dashboard Preview
+> ![Dashboard Preview]( https://github.com/prabalpkd/EIC-CaseStudy-Dashboard/blob/main/Snapshot01.png)
